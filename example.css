@@ -1,0 +1,27 @@
+.body{
+   background-color: rgb(183, 230, 98);
+   background-image:url("img/landscape.jpeg");
+   background-repeat: no-repeat;
+   
+
+}
+.h1{
+    color: blueviolet;
+    font-weight:bold;
+  /* float: left; */
+    text-decoration: dotted;
+    text-decoration-color: aliceblue;
+    text-shadow:2px 2px tomato;
+    font-size: 60px;
+}
+.p1{
+    font-size: 50px;
+    /* text-shadow:20px 20px crimson; */
+    padding:5px 5px 5px 0;
+    border: 10px solid red;
+    
+}
+.p2{
+    font-size: 50px;
+    text-shadow:20px 20px crimson;
+}
